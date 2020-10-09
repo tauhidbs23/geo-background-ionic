@@ -1,0 +1,7 @@
+{
+  "name": "backlocation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
